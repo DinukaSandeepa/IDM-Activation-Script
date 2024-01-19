@@ -26,7 +26,7 @@ set _reset=0
 ::  If value is changed in above lines or parameter is used then script will run in unattended mode
 
 ::  Add custom name in IDM license info, prefer to write it in English in below line after = sign,
-set name=
+set name=Dinuka Sandeepa
 
 ::========================================================================================================================================
 
